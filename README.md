@@ -1,7 +1,13 @@
-# CRUD_API_Board
+# CRUD_API 게시판 제작
 board, post, user을 사용한 CRUD api 게시판 입니다.
 
 
+## 제작 기간 & 배경
+* 2022-03-14 ~ 2022-03-25
+* 멋쟁아사자 과제로 게시판을 제작하며 공부 하였다.
+
+## Tech Stack
+* SpringBoot, Gradle, RDS(Mysql), JPA
 
 
 
