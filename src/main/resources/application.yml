@@ -1,0 +1,10 @@
+
+spring:
+  profiles:
+    active: test
+
+
+custom:
+  property:
+    single: custom-proerty
+    comlist: comma,sperated,list,to,value

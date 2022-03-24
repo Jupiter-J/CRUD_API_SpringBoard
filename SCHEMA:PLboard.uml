@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>61106e4a-4f60-493c-add2-42580caf7789.SCHEMA:PLboard</OriginalElement>
+  <nodes>
+    <node x="201.0" y="11.0">61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.board</node>
+    <node x="0.0" y="0.0">61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.user_community</node>
+    <node x="100.75" y="148.0">61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.post</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.post" target="61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.board" relationship="REFERENCES">
+      <point x="41.5" y="-71.0" />
+      <point x="225.25" y="123.0" />
+      <point x="277.0" y="123.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.post" target="61106e4a-4f60-493c-add2-42580caf7789.TABLE:PLboard.user_community" relationship="REFERENCES">
+      <point x="-41.5" y="-71.0" />
+      <point x="142.25" y="123.0" />
+      <point x="90.5" y="123.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="176.5" y="145.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
