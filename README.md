@@ -2,7 +2,7 @@
 
 
 
-## 제작 기간 & 배경
+## 제작 기간
 * 2022-03-14 ~ 2022-03-25
 * 멋쟁이 사자의 미션이었던 게시판을 다시 제작하며 API에 대해 공부했다.
 
@@ -13,6 +13,7 @@
 
 ## 기능
 * 게시판의 User, Board, Post를 나눠 각각의 Create, Read, Put, Delete 기능제작 
+* 각각의 Dto, Enttiy, Repository, Servie, Controller를 구분하여 제작 
 * Restful API 
  
 
