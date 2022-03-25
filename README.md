@@ -17,11 +17,11 @@
  
 
 ### ERD
-<img width= "30%" src="https://user-images.githubusercontent.com/73453283/159941957-c65c6864-69ec-476b-a3b3-2cd3d71afbf6.png">
+<img width= "50%" src="https://user-images.githubusercontent.com/73453283/159941957-c65c6864-69ec-476b-a3b3-2cd3d71afbf6.png">
 
 
 ### UML
-<img width= "60%" src="https://user-images.githubusercontent.com/73453283/159941840-4939a353-769c-442e-8655-1d6b341bc483.png">
+<img width= "80%" src="https://user-images.githubusercontent.com/73453283/159941840-4939a353-769c-442e-8655-1d6b341bc483.png">
 
 ### Swagger
 <img width= "80%" src="https://user-images.githubusercontent.com/73453283/159959011-16a18953-ef6d-41d1-80a1-c91a3dee8e26.png">
