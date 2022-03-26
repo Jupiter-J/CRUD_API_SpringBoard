@@ -16,18 +16,26 @@
 * 각각의 Dto, Enttiy, Repository, Servie, Controller를 구분하여 제작 
 * Restful API 
  
+ 
+<br/><br/>
 
 ### ERD
 <img width= "50%" src="https://user-images.githubusercontent.com/73453283/159941957-c65c6864-69ec-476b-a3b3-2cd3d71afbf6.png">
 
 
+<br/><br/>
+
 ### UML
 <img width= "80%" src="https://user-images.githubusercontent.com/73453283/159941840-4939a353-769c-442e-8655-1d6b341bc483.png">
+
+<br/><br/>
 
 ### Swagger
 <img width= "80%" src="https://user-images.githubusercontent.com/73453283/159959011-16a18953-ef6d-41d1-80a1-c91a3dee8e26.png">
 <img width= "80%" src="https://user-images.githubusercontent.com/73453283/159960003-25b7041a-6ba9-4f63-94ca-eeafbdd8dd79.png">
 
+
+<br/><br/>
 ### Postman
 * board
 
@@ -42,11 +50,13 @@
 ![image](https://user-images.githubusercontent.com/73453283/159961894-d963f0f3-b9ad-46e1-9597-d288b6767b42.png)
 
 
+<br/><br/>
 ### API 명세서
 https://www.notion.so/090de07031a64e598a20bd54c68d6aaa
 
 
 
+<br/><br/>
 
 ## 에러 내역
 * Swagger 3.0.0을 적용하는데 에러가 났다. yml 설정이 문제였음
