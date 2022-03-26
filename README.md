@@ -31,8 +31,8 @@
 <br/><br/>
 
 ### Swagger
-<img width= "80%" src="https://user-images.githubusercontent.com/73453283/159959011-16a18953-ef6d-41d1-80a1-c91a3dee8e26.png">
-<img width= "80%" src="https://user-images.githubusercontent.com/73453283/159960003-25b7041a-6ba9-4f63-94ca-eeafbdd8dd79.png">
+<img width= "90%" src="https://user-images.githubusercontent.com/73453283/159959011-16a18953-ef6d-41d1-80a1-c91a3dee8e26.png">
+<img width= "90%" src="https://user-images.githubusercontent.com/73453283/159960003-25b7041a-6ba9-4f63-94ca-eeafbdd8dd79.png">
 
 
 <br/><br/>
