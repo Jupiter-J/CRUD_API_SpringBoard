@@ -4,7 +4,8 @@
 
 ## 제작 기간
 * 2022-03-14 ~ 2022-03-25
-* 스프링부트 게시판을 다시 제작하며 API에 대해 공부했다.
+* 스프링부트 게시판을 다시 제작하며 API에 대해 공부
+* ProjectLion에서 학습한 내용의 프로젝트 입니다 
 
 ## Tech Stack
 * SpringBoot, Gradle, RDS(Mysql), H2, JPA
