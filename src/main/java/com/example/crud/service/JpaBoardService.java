@@ -28,7 +28,6 @@ public class JpaBoardService implements BoardService{
         BoardEntity boardEntity = new BoardEntity();
         boardEntity.setName(dto.getName());
         boardEntity = this.boardrepository.save(boardEntity);
-
         return new BoardDto(
                 boardEntity.getId(), boardEntity.getName()
         );
@@ -37,10 +36,9 @@ public class JpaBoardService implements BoardService{
     @Override
     public Collection<BoardDto> readAll() {
         List<BoardDto> boardDtoList = new ArrayList<>();
+
         this.boardrepository.findAll().forEach(boardEntity ->
-                boardDtoList.add(new BoardDto
-                        (boardEntity.getId(),
-                        boardEntity.getName())));
+                boardDtoList.add( new BoardDto (boardEntity.getId(), boardEntity.getName())));
         return boardDtoList;
     }
 
